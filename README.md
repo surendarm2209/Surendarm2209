@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hello, I'm Surendar M
 
-<!--
-**surendarm2209/Surendarm2209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 A passionate DevOps Engineer with hands-on experience in cloud infrastructure, CI/CD automation, and containerization.  
 
-Here are some ideas to get you started:
+📌 Tools I work with:
+- ☁️ AWS, Terraform
+- 🐳 Docker
+- ⚙️ Jenkins, Aws Code Pipeline
+- 📊 Cloudwatch, Datadog(basics)
+- 🐧 Linux, Shell Scripting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 I love automating everything, solving problems, and continuously learning new DevOps tools and practices.
+
+
+## 🔧 Projects
+
+- 🔹 CI/CD Pipeline with Jenkins + Docker + AWS
+- 🔹 Terraform Scripts for AWS Infrastructure
+- 🔹 Monitoring Dashboard using Cloudwatch and Datadog
+
+
+
+## 📫 Let's Connect
+
+- 💼 https://www.linkedin.com/in/surendarm-devops/
+- 🧑‍💻 https://github.com/surendarm2209/
+- 📧 Mail me: surendarm2209@gmail.com
+
+
+
+> 💡 *“Automation is not the end, it's the beginning of innovation.”*
