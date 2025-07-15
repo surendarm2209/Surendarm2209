@@ -1,24 +1,38 @@
-# 👋 Hello, I'm Surendar M
+ Hi, I'm Surendar M
 
-🚀 A passionate DevOps Engineer with hands-on experience in cloud infrastructure, CI/CD automation, and containerization.  
+🚀 DevOps Engineer | CI/CD | AWS | Jenkins | ECS | Automation
 
-📌 Tools I work with:
+I'm a DevOps Engineer with 3 years of hands-on experience working at CaratLane, managing scalable infrastructure and deployment pipelines for high-traffic e-commerce platforms and internal applications.
+
+## 🛠️ What I Do
+
+- ⚙️ Design & manage multi-stage **CI/CD pipelines** using **Jenkins** and **AWS CodePipeline**
+- 🐳 Build and deploy **Dockerized microservices** to **ECS with EC2**
+- 🌐 Configure **ALB, Target Groups, Route 53**, and health checks for service routing
+- 📦 Automate log archiving, service restarts, and health monitoring using **Shell scripting**
+- 🔐 Handle **IAM user access**, server-level permissions, and AWS resource provisioning
+- 📈 Optimize infrastructure for reliability, scale, and cost-efficiency
+
+---
+
+## 🔧 Technologies & Tools
+
+| DevOps | AWS | Infra | Monitoring | Scripting |
+
 - ☁️ AWS, Terraform
 - 🐳 Docker
-- ⚙️ Jenkins, Aws Code Pipeline
+- Git, GitHub
+- ⚙️ Jenkins, Aws CICD
 - 📊 Cloudwatch, Datadog(basics)
-- 🐧 Linux, Shell Scripting
+- 🐧 Linux, Shell Scripting, Java
+- Jira
 
-📈 I love automating everything, solving problems, and continuously learning new DevOps tools and practices.
+## 💼 Currently Working On
 
-
-## 🔧 Projects
-
-- 🔹 CI/CD Pipeline with Jenkins + Docker + AWS
-- 🔹 Terraform Scripts for AWS Infrastructure
-- 🔹 Monitoring Dashboard using Cloudwatch and Datadog
-
-
+- Managing deployments for ~10+ microservices in ECS
+- Automating daily infra health checks and log cleanups
+- Scaling containers during seasonal spikes
+- Supporting QA and developers in staging & production issues
 
 ## 📫 Let's Connect
 
